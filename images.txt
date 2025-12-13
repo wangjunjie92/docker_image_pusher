@@ -1,1 +1,4 @@
-byjg/nginx-extras:1.26
+mysql:8.0.44-debian
+redis:6.2.21
+nacos/nacos-server:v3.1.1
+apache/rocketmq:5.3.4
