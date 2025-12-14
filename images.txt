@@ -1,4 +1,4 @@
 mysql:8.0.44-debian
 redis:6.2.21
-nacos/nacos-server:v3.1.1
+nacos/nacos-server:v2.5.2
 apache/rocketmq:5.3.4
