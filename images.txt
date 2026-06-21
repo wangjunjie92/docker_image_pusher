@@ -1,1 +1,2 @@
-apache/skywalking-ui:10.3.0-java21
+apacherocketmq/rocketmq-dashboard:2.1.0
+
